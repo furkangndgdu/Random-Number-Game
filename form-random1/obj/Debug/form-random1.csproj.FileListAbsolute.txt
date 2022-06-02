@@ -1,0 +1,11 @@
+C:\Users\gundo\OneDrive\Masaüstü\form-random1\form-random1\bin\Debug\form-random1.exe.config
+C:\Users\gundo\OneDrive\Masaüstü\form-random1\form-random1\bin\Debug\form-random1.exe
+C:\Users\gundo\OneDrive\Masaüstü\form-random1\form-random1\bin\Debug\form-random1.pdb
+C:\Users\gundo\OneDrive\Masaüstü\form-random1\form-random1\obj\Debug\form-random1.csproj.AssemblyReference.cache
+C:\Users\gundo\OneDrive\Masaüstü\form-random1\form-random1\obj\Debug\form-random1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gundo\OneDrive\Masaüstü\form-random1\form-random1\obj\Debug\form_random1.Form1.resources
+C:\Users\gundo\OneDrive\Masaüstü\form-random1\form-random1\obj\Debug\form_random1.Properties.Resources.resources
+C:\Users\gundo\OneDrive\Masaüstü\form-random1\form-random1\obj\Debug\form-random1.csproj.GenerateResource.cache
+C:\Users\gundo\OneDrive\Masaüstü\form-random1\form-random1\obj\Debug\form-random1.csproj.CoreCompileInputs.cache
+C:\Users\gundo\OneDrive\Masaüstü\form-random1\form-random1\obj\Debug\form-random1.exe
+C:\Users\gundo\OneDrive\Masaüstü\form-random1\form-random1\obj\Debug\form-random1.pdb
